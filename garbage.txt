@@ -1,0 +1,1 @@
+This is garbage file and should not be staged!!
