@@ -1,0 +1,4 @@
+This is branch test.
+It's used to see, if I understand branches.
+
+So let be iT.
